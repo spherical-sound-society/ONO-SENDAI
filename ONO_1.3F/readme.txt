@@ -4,4 +4,4 @@ To resume: pressbootsel, keep it pressed, press reset, release reset, release bo
 
 https://www.youtube.com/watch?v=kR2fTEXEgVw
 
-1.3F is still a bit glitchy. It´s oriented to the hacky tribe. A more stable version will appear soon
+1.3F is still a bit glitchy (using start/stop key does crash) but it has a lot of new tricks and the coarse pot is playable. It´s oriented to the hacky tribe. A more stable version with the corrected bug and more features will appear soon
