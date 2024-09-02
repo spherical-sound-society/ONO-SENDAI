@@ -15,3 +15,14 @@ To activate clock in, put the BPMs pot at minimum. The machine stops and waits f
 To load presets, press function, choose the preset with the color pot and press functin again to load it.
 
 >A lot of small bugfixes done.
+
+
+To change the firmware in your ONO-SENDAI just connect it to the computer with a USB C cable.
+
+Then, press BOOT, without releaseing it press RESET. Release RESET, release BOOT.
+
+A window will open in your computer. Just drag the firmware that you want to install to that window and you are ready to play it.
+
+We have a video explaining how to update your synths here:
+
+https://www.youtube.com/watch?v=kR2fTEXEgVw
