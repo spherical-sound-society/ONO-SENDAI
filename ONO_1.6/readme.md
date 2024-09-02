@@ -2,7 +2,7 @@ Latest firmware 1.6
 
 >It has clock in (Clock in jack)
 
-To activate clock in, put the temp pot at minimum. The machine stops and waits for pulses to advance the steps.
+To activate clock in, put the BPMs pot at minimum. The machine stops and waits for pulses to advance the steps.
 
 >It has clock out (MIDI IN jack)
 
